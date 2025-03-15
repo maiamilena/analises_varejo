@@ -1,5 +1,5 @@
 Análise de Dados de Vendas
-Este repositório contém um notebook Jupyter (analise_v.ipynb) que realiza uma análise exploratória de dados de vendas de uma loja. O objetivo é entender as tendências de vendas, identificar padrões e realizar análises estatísticas básicas.
+Este repositório realiza uma análise exploratória de dados de vendas de uma loja. O objetivo é entender as tendências de vendas, identificar padrões e realizar análises estatísticas básicas.
 
 Requisitos
 Para executar o notebook, você precisará das seguintes bibliotecas Python:
